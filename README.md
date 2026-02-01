@@ -359,6 +359,6 @@ csharp
 ```
 ## Как скачать
 
-git clone https://github.com/Neroimor/Algorithms.git
+git clone https://github.com/Archikey/Algorithms.git
 
 
